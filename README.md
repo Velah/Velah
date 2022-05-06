@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Velah</h1>
-<h3 align="center">A tech lead from Barcelona</h3>
+<h3 align="center">And I'm building the education of the future at Adaptical</h3>
+<br/>
 
 - 🔭 I’m currently working on [Mathew](https://mathew.ai)
 
