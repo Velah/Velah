@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **velasco.llaurado@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/velasco-llaurado/)
+- 📄 Know about my experiences [here](https://mnf.red/velasco-llaurado)
 
 ### Connect with me:
 <p align="left">
