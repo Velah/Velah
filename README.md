@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Velah</h1>
-<h3 align="center">And I'm building the education of the future at Adaptical</h3>
+<h1 align="center">Hi 👋, I'm Xavi</h1>
+<h3 align="center">I'm building the education of the future at Adaptical</h3>
 <br/>
 
 - 🔭 I’m currently working on [Mathew](https://mathew.ai)
 
-- 🌱 I’m currently improving on **how to lead teams**
-
-- 💬 You can ask me about **Django and Vue**
-
-- 📫 How to reach me **velasco.llaurado@gmail.com**
+- 📫 You can reach me at **velasco.llaurado@gmail.com**
 
 - 📄 Know about my experiences [here](https://mnf.red/velasco-llaurado)
 
